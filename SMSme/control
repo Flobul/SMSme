@@ -1,0 +1,9 @@
+Package: com.flobul.smsme
+Name: smsme
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: A command line tool to send an SMS text message.
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Author: Flobul
+Section: System
